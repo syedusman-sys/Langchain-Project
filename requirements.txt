@@ -9,4 +9,5 @@ langchain-google-genai==2.0.4
 google-generativeai==0.8.0
 faiss-cpu==1.9.0.post1
 protobuf==4.25.3
+unstructured==0.15.10
 
